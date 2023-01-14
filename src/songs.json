@@ -1,0 +1,47 @@
+[
+  {
+    "urlSong": "/songs/q.mp3",
+    "keySong": "Q",
+    "titleSong": "Heater 1"
+  },
+  {
+    "urlSong": "/songs/w.mp3",
+    "keySong": "W",
+    "titleSong": "Heater 2"
+  },
+  {
+    "urlSong": "/songs/e.mp3",
+    "keySong": "E",
+    "titleSong": "Heater 3"
+  },
+  {
+    "urlSong": "/songs/a.mp3",
+    "keySong": "A",
+    "titleSong": "Heater 4"
+  },
+  {
+    "urlSong": "/songs/s.mp3",
+    "keySong": "S",
+    "titleSong": "Clap"
+  },
+  {
+    "urlSong": "/songs/d.mp3",
+    "keySong": "D",
+    "titleSong": "Open-HH"
+  },
+  {
+    "urlSong": "/songs/z.mp3",
+    "keySong": "Z",
+    "titleSong": "Kick-n'-Hat"
+  },
+  {
+    "urlSong": "/songs/x.mp3",
+    "keySong": "X",
+    "titleSong": "Kick"
+  },
+  {
+    "urlSong": "/songs/c.mp3",
+    "keySong": "C",
+    "titleSong": "Closed-HH"
+  }
+]
